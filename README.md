@@ -15,17 +15,17 @@
 
 
 <a href="https://github.com/AbStRaCt-IrIs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbStRaCt-IrIs&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbStRaCt-IrIs&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/AbStRaCt-IrIs">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbStRaCt-IrIs&show_icons=true&theme=light&line_height=27" alt="AbStRaCt-IrIs's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbStRaCt-IrIs&show_icons=true&theme=dark&line_height=27" alt="AbStRaCt-IrIs's github stats"/>
 </a>
 <a href="https://github.com/AbStRaCt-IrIs/device_xiaomi_laurel_sprout">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbStRaCt-IrIs&repo=device_xiaomi_laurel_sprout&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbStRaCt-IrIs&repo=device_xiaomi_laurel_sprout&theme=dark" />
 
 </a>
 <a href="https://github.com/AbStRaCt-IrIs/vendor_xiaomi_laurel_sprout">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbStRaCt-IrIs&repo=vendor_xiaomi_laurel_sprout&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbStRaCt-IrIs&repo=vendor_xiaomi_laurel_sprout&theme=dark" />
 </a>
 
 <div align="center">
