@@ -25,7 +25,7 @@
 
 </a>
 <a href="https://github.com/AbStRaCt-IrIs/vendor_xiaomi_laurel_sprout">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbStRaCt-IrIs&repo=vendor_xiaomi_laurel_sprout&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbStRaCt-IrIs&repo=vendor_xiaomi_laurel_sprout&theme=highcontrast" />
 </a>
 
 <div align="center">
