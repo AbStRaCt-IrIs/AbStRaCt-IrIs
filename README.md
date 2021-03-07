@@ -15,13 +15,13 @@
 
 
 <a href="https://github.com/AbStRaCt-IrIs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbStRaCt-IrIs&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbStRaCt-IrIs&theme=chartreuse-dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/AbStRaCt-IrIs">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbStRaCt-IrIs&show_icons=true&theme=dark&line_height=27" alt="AbStRaCt-IrIs's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbStRaCt-IrIs&show_icons=true&theme=chartreuse-dark&line_height=27" alt="AbStRaCt-IrIs's github stats"/>
 </a>
 <a href="https://github.com/AbStRaCt-IrIs/device_xiaomi_laurel_sprout">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbStRaCt-IrIs&repo=device_xiaomi_laurel_sprout&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbStRaCt-IrIs&repo=device_xiaomi_laurel_sprout&theme=highcontrast" />
 
 </a>
 <a href="https://github.com/AbStRaCt-IrIs/vendor_xiaomi_laurel_sprout">
