@@ -13,7 +13,7 @@
 [![GitHub AbStRaCt-IrIs](https://img.shields.io/github/followers/AbStRaCt-IrIs?label=follow&style=social)](https://github.com/AbStRaCt-IrIs)
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=AbStRaCt-IrIs&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 <!--START_SECTION:waka-->
@@ -54,19 +54,8 @@ Other                    3 mins              ███████████�
 
 <!--END_SECTION:waka-->
 
-
-<a href="https://github.com/AbStRaCt-IrIs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbStRaCt-IrIs&theme=chartreuse-dark&hide_langs_below=1" />
-</a>
 <a href="https://github.com/AbStRaCt-IrIs">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbStRaCt-IrIs&show_icons=true&theme=chartreuse-dark&line_height=27" alt="AbStRaCt-IrIs's github stats"/>
-</a>
-<a href="https://github.com/AbStRaCt-IrIs/device_xiaomi_laurel_sprout">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbStRaCt-IrIs&repo=device_xiaomi_laurel_sprout&theme=highcontrast" />
-
-</a>
-<a href="https://github.com/AbStRaCt-IrIs/vendor_xiaomi_laurel_sprout">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbStRaCt-IrIs&repo=vendor_xiaomi_laurel_sprout&theme=highcontrast" />
 </a>
 
 <div align="center">
