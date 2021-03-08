@@ -48,12 +48,6 @@
 
 <img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AbStRaCt-IrIs&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
-### Now Playing 🎧
-
-[![Spotify](https://spotify-recently-played-6w8ea7g4e.vercel.app/api/spotify)](https://open.spotify.com/user/rb3ubydmyhraci66njzhjzsjg)
-<br/>
----
-
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
