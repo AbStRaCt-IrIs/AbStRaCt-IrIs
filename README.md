@@ -22,20 +22,6 @@
   <img alig src="https://github-profile-trophy.vercel.app/?username=AbStRaCt-IrIs&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
-<!--START_SECTION:waka-->
-
-**I'm a day Person 🌆** 
-
-```text
-🌞 Morning    147 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.84% 
-🌆 Daytime    614 commits    █████████░░░░░░░░░░░░░░░░   36.94% 
-🌃 Evening    553 commits    ████████░░░░░░░░░░░░░░░░░   33.27% 
-🌙 Night      348 commits    █████░░░░░░░░░░░░░░░░░░░░   20.94%
-
-```
-
-<!--END_SECTION:waka-->
-
 ## Github Stats
 
 <details> 
