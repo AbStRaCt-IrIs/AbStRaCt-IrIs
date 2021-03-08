@@ -1,26 +1,15 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />  Hola, I'm [Arn Khan!]👋 </h2>
 
-import SoftwareDeveloper from 'thompsonemerson';
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbStRaCt-IrIs&label=Views&color=blue&style=plastic" alt="AbStRaCt-IrIs" /> </p>
 
-class Bio extends SoftwareDeveloper {
-  name     = 'Emerson Thompson';
-  title    = 'Software Engineer';
-  company  = 'Pipoca Digital | Remote';
-  location = 'Fortaleza, CE';
-}
 
-class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PHP'];
-  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
-}
-class working extends laurel_sprout {
-  I’m currently working on Mi A3
-  I’m currently learning more about Coding
-  I’m looking for help with Mi A3 Cherish OS
-  Pronouns: He/His
-  Fun fact: I spend almost 09 hours listening songs everyday.
-}
+
+- 🔭 I’m currently working on Mi A3
+- 🌱 I’m currently learning more about Coding
+- 🤔 I’m looking for help with Mi A3 Cherish OS
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I spend almost 09 hours listening songs everyday.
+
 
 [![GitHub AbStRaCt-IrIs](https://img.shields.io/github/followers/AbStRaCt-IrIs?label=follow&style=social)](https://github.com/AbStRaCt-IrIs)
 
