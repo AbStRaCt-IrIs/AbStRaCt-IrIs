@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
+
+
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />  Hola, I'm [Arn Khan!]👋 </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbStRaCt-IrIs&label=Views&color=blue&style=plastic" alt="AbStRaCt-IrIs" /> </p>
@@ -28,18 +33,7 @@
 🌙 Night      348 commits    █████░░░░░░░░░░░░░░░░░░░░   20.94%
 
 ```
-📅 **I'm Most Productive on** 
 
-```text
-Monday       371 commits    █████░░░░░░░░░░░░░░░░░░░░   22.32% 
-Tuesday      276 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.61% 
-Wednesday    297 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.87% 
-Thursday     167 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.05% 
-Friday       207 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.45% 
-Saturday     193 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.61% 
-Sunday       151 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
-
-```
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/AbStRaCt-IrIs">
