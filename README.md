@@ -8,6 +8,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbStRaCt-IrIs&label=Views&color=blue&style=plastic" alt="AbStRaCt-IrIs" /> </p>
 
 
+<a href="https://github.com/AbStRaCt-IrIs">
+  <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+<a href="mailto:khanarn2k6@gmail.com">
+  <img align="left" alt="akd's codechef" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
+</a>
+<br/>
+
+<br><br>
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
+
+  
+  Somethings about me:
 
 - 🔭 I’m currently working on Mi A3
 - 🌱 I’m currently learning more about Coding
@@ -15,7 +28,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 09 hours listening songs everyday.
 
-
+  
 [![GitHub AbStRaCt-IrIs](https://img.shields.io/github/followers/AbStRaCt-IrIs?label=follow&style=social)](https://github.com/AbStRaCt-IrIs)
 
 <p align="center">
@@ -41,3 +54,10 @@
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
+##
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/AbStRaCt-IrIs/count.svg" />
+</p>
+
