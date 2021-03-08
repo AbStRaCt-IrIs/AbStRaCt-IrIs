@@ -23,13 +23,14 @@
 </p>
 
 ## Github Stats
-
+<details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <img alt="Hendrasob's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbStRaCt-IrIs&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
   <img alt="Hendrasob's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbStRaCt-IrIs&langs_count=6&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
 
 
 <img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AbStRaCt-IrIs&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
